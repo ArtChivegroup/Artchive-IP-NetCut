@@ -46,7 +46,8 @@ You can install the required modules with:
 
 ```bash
 pip install -r requirements.txt
----
+
+```
 Modules used in this project:
 
 Module	Version	Description
