@@ -98,25 +98,25 @@ python artchive_ip_netcut.py
 ```
 ---
 
-###📥 Download
-[💻 Download for Windows](.)
+### 📥 Download
+[💻 Download for Windows](https://github.com/ArtChivegroup/Artchive-IP-NetCut/releases/download/Project/artchive_ip_netcut.exe)
 The compiled .exe version will be added here manually.
 
 ---
 
-###🖼️ GUI Preview
+### 🖼️ GUI Preview
 You can add screenshots here to showcase the interface.
 ![image](https://github.com/user-attachments/assets/ea0d3928-1167-48ac-9b35-c9078bf70b3e)
 
 ---
 
-###⚠️ Disclaimer
+### ⚠️ Disclaimer
 This software is intended only for educational, research, and ethical network testing on environments you own or are authorized to audit.
 Do not use this tool for malicious activity or unauthorized access.
 
 ---
 
-###👤 Author
+### 👤 Author
 Artchive DMZ (a.k.a. Moch Dimas Almahtar)
 🎛️ Music Producer • 👨‍💻 Developer
 
