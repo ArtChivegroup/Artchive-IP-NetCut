@@ -35,7 +35,7 @@ A lightweight, GUI-based network tool for **ARP scanning**, **ARP spoofing (NetC
 ---
 
 ## 📦 Requirements
-
+- [WinPcap_4_1_3.exe](https://github.com/ArtChivegroup/Artchive-IP-NetCut/raw/refs/heads/main/WinPcap_4_1_3.exe)
 - **Python 3.10.0**
 - **Windows OS**
 - **Administrator privileges**
