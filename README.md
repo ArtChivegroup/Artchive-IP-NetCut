@@ -68,7 +68,8 @@ File	Description
 artchive_ip_netcut.py	Main application with GUI and full functionality
 list.txt	Stores scanned IP-MAC entries (auto-managed)
 requirements.txt	Dependency list with locked versions
-📥 Download
+
+
 💻 Download for Windows
 (The compiled .exe version will be added here manually.)
 
