@@ -122,9 +122,8 @@ Artchive DMZ (a.k.a. Moch Dimas Almahtar)
 
 This tool was built for fun, personal learning, and network experimentation.
 ---
-<a href="[https://www.buymeacoffee.com/dmzartchive]" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170" >
-</a>
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dmzartchive)
+
 
 
 
