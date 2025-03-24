@@ -121,5 +121,9 @@ Artchive DMZ (a.k.a. Moch Dimas Almahtar)
 🎛️ Music Producer • 👨‍💻 Developer
 
 This tool was built for fun, personal learning, and network experimentation.
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
+
 
 
