@@ -106,6 +106,7 @@ The compiled .exe version will be added here manually.
 
 ### 🖼️ GUI Preview
 You can add screenshots here to showcase the interface.
+
 ![image](https://github.com/user-attachments/assets/ea0d3928-1167-48ac-9b35-c9078bf70b3e)
 
 ---
@@ -122,7 +123,9 @@ Artchive DMZ (a.k.a. Moch Dimas Almahtar)
 
 This tool was built for fun, personal learning, and network experimentation.
 ---
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dmzartchive)
+<a href="https://buymeacoffee.com/dmzartchive" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+</a>
 
 
 
