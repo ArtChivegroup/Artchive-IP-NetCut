@@ -123,9 +123,14 @@ Artchive DMZ (a.k.a. Moch Dimas Almahtar)
 
 This tool was built for fun, personal learning, and network experimentation.
 ---
-<a href="https://buymeacoffee.com/dmzartchive" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-</a>
+<div style="text-align: center; margin: 20px 0; font-family: Arial, sans-serif;">
+  <!-- Ko-fi Widget Button -->
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+  <script type='text/javascript'>
+    kofiwidget2.init('My Ko-Fi Supporters', '#29abe0', 'dmzartchive');
+    kofiwidget2.draw();
+  </script>
+</div>
 
 
 
