@@ -123,15 +123,7 @@ Artchive DMZ (a.k.a. Moch Dimas Almahtar)
 
 This tool was built for fun, personal learning, and network experimentation.
 ---
-<div style="text-align: center; margin: 20px 0; font-family: Arial, sans-serif;">
-  <!-- Ko-fi Widget Button -->
-  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-  <script type='text/javascript'>
-    kofiwidget2.init('My Ko-Fi Supporters', '#29abe0', 'dmzartchive');
-    kofiwidget2.draw();
-  </script>
-</div>
-
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dmzartchive)
 
 
 
